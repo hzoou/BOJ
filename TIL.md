@@ -11,3 +11,4 @@
 - [10998](https://www.acmicpc.net/problem/10998)
 - [1008](https://www.acmicpc.net/problem/1008)
 - [10869](https://www.acmicpc.net/problem/10869)
+- [10430](https://www.acmicpc.net/problem/10430)
