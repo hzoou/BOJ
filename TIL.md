@@ -7,3 +7,4 @@
 - [10172](https://www.acmicpc.net/problem/10172)
 - [7287](https://www.acmicpc.net/problem/7287)
 - [1000](https://www.acmicpc.net/problem/1000)
+- [1001](https://www.acmicpc.net/problem/1001)
