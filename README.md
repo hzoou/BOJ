@@ -25,3 +25,4 @@
 |[10950](https://www.acmicpc.net/problem/10950)|[A+B - 3](java/10950.java)
 |[8393](https://www.acmicpc.net/problem/8393)|[합](java/8393.java)
 |[15552](https://www.acmicpc.net/problem/15552)|[빠른 A+B](java/15552.java)
+|[2741](https://www.acmicpc.net/problem/2741)|[N 찍기](java/2741.java)
