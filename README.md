@@ -23,3 +23,4 @@
 |[10817](https://www.acmicpc.net/problem/10817)|[세 수](java/10817.java)
 |[2739](https://www.acmicpc.net/problem/2739)|[구구단](java/2739.java)
 |[10950](https://www.acmicpc.net/problem/10950)|[A+B - 3](java/10950.java)
+|[8393](https://www.acmicpc.net/problem/8393)|[합](java/8393.java)
