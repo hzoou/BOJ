@@ -21,3 +21,4 @@
 |[2753](https://www.acmicpc.net/problem/2753)|[윤년](java/2753.java)
 |[2884](https://www.acmicpc.net/problem/2884)|[알람 시계](java/2884.java)|`입력 시간은 24시간 표현을 사용한다`
 |[10817](https://www.acmicpc.net/problem/10817)|[세 수](java/10817.java)
+|[2739](https://www.acmicpc.net/problem/2739)|[구구단](java/2739.java)
