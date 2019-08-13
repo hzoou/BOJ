@@ -17,3 +17,4 @@
 |[10430](https://www.acmicpc.net/problem/10430)|[나머지](java/10430.java)
 |[2588](https://www.acmicpc.net/problem/2588)|[곱셈](java/2588.java)
 |[1330](https://www.acmicpc.net/problem/1330)|[두 수 비교하기](java/1330.java)
+|[9498](https://www.acmicpc.net/problem/1330)|[시험 성적](java/9498.java)
