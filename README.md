@@ -33,4 +33,5 @@
 |---|---|---|
 |[11021](https://www.acmicpc.net/problem/11021)|[A+B - 7](java/11021.java)|
 |[11022](https://www.acmicpc.net/problem/11022)|[A+B - 8](java/11022.java)|
-|[2438](https://www.acmicpc.net/problem/2438)|[A+B - 8](java/2438.java)|
+|[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](java/2438.java)|
+|[2439](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](java/2439.java)|
