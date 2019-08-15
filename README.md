@@ -29,8 +29,8 @@
 |[2742](https://www.acmicpc.net/problem/2742)|[기찍 N](java/2742.java)
 
 ### 2019.08.14
-|문제번호|제목||
-|---|---|---|
+|문제번호|제목|
+|---|---|
 |[11021](https://www.acmicpc.net/problem/11021)|[A+B - 7](java/11021.java)|
 |[11022](https://www.acmicpc.net/problem/11022)|[A+B - 8](java/11022.java)|
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](java/2438.java)|
