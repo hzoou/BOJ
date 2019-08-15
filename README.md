@@ -35,3 +35,8 @@
 |[11022](https://www.acmicpc.net/problem/11022)|[A+B - 8](java/11022.java)|
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](java/2438.java)|
 |[2439](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](java/2439.java)|
+
+### 2019.08.15
+|문제번호|제목||
+|---|---|---|
+|[10871](https://www.acmicpc.net/problem/10871)|[X보다 작은 수](java/10871.java)|`아직은 Scanner가 더 익숙`
