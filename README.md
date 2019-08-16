@@ -54,3 +54,4 @@
 |[3052](https://www.acmicpc.net/problem/3052)|[나머지](java/3052.java)|`stream.filter()` 사용
 |[1546](https://www.acmicpc.net/problem/1546)|[평균](java/1546.java)|평균값은 `int`가 아니라 `double`형
 |[8958](https://www.acmicpc.net/problem/8958)|[평균](java/8958.java)|`stream` to `string[]` 변환 -> `stream.toArray(String[]::new)`
+|[4344](https://www.acmicpc.net/problem/4344)|[평균](java/4344.java)|`string.format()` 사용 반올림
