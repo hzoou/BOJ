@@ -48,3 +48,4 @@
 |[10951](https://www.acmicpc.net/problem/10951)|[A+B - 4](java/10951.java)|`EOF`
 |[1110](https://www.acmicpc.net/problem/1110)|[더하기 사이클](java/1110.java)
 |[10818](https://www.acmicpc.net/problem/10818)|[최소, 최대](java/10818.java)
+|[2562](https://www.acmicpc.net/problem/2562)|[최댓값](java/2562.java)
