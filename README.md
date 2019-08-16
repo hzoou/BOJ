@@ -52,3 +52,4 @@
 |[2920](https://www.acmicpc.net/problem/2920)|[음계](java/2920.java)
 |[2577](https://www.acmicpc.net/problem/2577)|[숫자의 개수](java/2577.java)
 |[3052](https://www.acmicpc.net/problem/3052)|[나머지](java/3052.java)|`stream.filter()` 사용
+|[1546](https://www.acmicpc.net/problem/1546)|[평균](java/1546.java)|평균값은 `int`가 아니라 `double`형
