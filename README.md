@@ -51,3 +51,4 @@
 |[2562](https://www.acmicpc.net/problem/2562)|[최댓값](java/2562.java)
 |[2920](https://www.acmicpc.net/problem/2920)|[음계](java/2920.java)
 |[2577](https://www.acmicpc.net/problem/2577)|[숫자의 개수](java/2577.java)
+|[3052](https://www.acmicpc.net/problem/3052)|[나머지](java/3052.java)|`stream.filter()` 사용
