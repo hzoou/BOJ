@@ -29,8 +29,8 @@
 |[2742](https://www.acmicpc.net/problem/2742)|[기찍 N](java/2742.java)
 
 ### 2019.08.14
-|문제번호|제목||
-|---|---|---|
+|문제번호|제목|
+|---|---|
 |[11021](https://www.acmicpc.net/problem/11021)|[A+B - 7](java/11021.java)|
 |[11022](https://www.acmicpc.net/problem/11022)|[A+B - 8](java/11022.java)|
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](java/2438.java)|
@@ -41,3 +41,8 @@
 |---|---|---|
 |[10871](https://www.acmicpc.net/problem/10871)|[X보다 작은 수](java/10871.java)|아직은 `Scanner`가 더 익숙
 |[10952](https://www.acmicpc.net/problem/10952)|[A+B - 5](java/10952.java)|`String`에 담아서 출력
+
+### 2019.08.16
+|문제번호|제목||
+|---|---|---|
+|[10951](https://www.acmicpc.net/problem/10951)|[A+B - 4](java/10951.java)|`EOF`
