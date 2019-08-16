@@ -29,8 +29,8 @@
 |[2742](https://www.acmicpc.net/problem/2742)|[기찍 N](java/2742.java)
 
 ### 2019.08.14
-|문제번호|제목|
-|---|---|
+|문제번호|제목||
+|---|---|---|
 |[11021](https://www.acmicpc.net/problem/11021)|[A+B - 7](java/11021.java)|
 |[11022](https://www.acmicpc.net/problem/11022)|[A+B - 8](java/11022.java)|
 |[2438](https://www.acmicpc.net/problem/2438)|[별 찍기 - 1](java/2438.java)|
@@ -41,6 +41,7 @@
 |---|---|---|
 |[10871](https://www.acmicpc.net/problem/10871)|[X보다 작은 수](java/10871.java)|아직은 `Scanner`가 더 익숙
 |[10952](https://www.acmicpc.net/problem/10952)|[A+B - 5](java/10952.java)|`String`에 담아서 출력
+<<<<<<< HEAD
 
 ### 2019.08.16
 |문제번호|제목||
@@ -55,3 +56,5 @@
 |[1546](https://www.acmicpc.net/problem/1546)|[평균](java/1546.java)|평균값은 `int`가 아니라 `double`형
 |[8958](https://www.acmicpc.net/problem/8958)|[평균](java/8958.java)|`stream` to `string[]` 변환 -> `stream.toArray(String[]::new)`
 |[4344](https://www.acmicpc.net/problem/4344)|[평균](java/4344.java)|`string.format()` 사용 반올림
+=======
+>>>>>>> 957eb63d0e74c0de44950635e7af6c7fbf0f1de4
