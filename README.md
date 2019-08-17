@@ -53,5 +53,10 @@
 |[2577](https://www.acmicpc.net/problem/2577)|[숫자의 개수](java/2577.java)
 |[3052](https://www.acmicpc.net/problem/3052)|[나머지](java/3052.java)|`stream.filter()` 사용
 |[1546](https://www.acmicpc.net/problem/1546)|[평균](java/1546.java)|평균값은 `int`가 아니라 `double`형
-|[8958](https://www.acmicpc.net/problem/8958)|[평균](java/8958.java)|`stream` to `string[]` 변환 -> `stream.toArray(String[]::new)`
-|[4344](https://www.acmicpc.net/problem/4344)|[평균](java/4344.java)|`string.format()` 사용 반올림
+|[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈](java/8958.java)|`stream` to `string[]` 변환 -> `stream.toArray(String[]::new)`
+|[4344](https://www.acmicpc.net/problem/4344)|[평균은 넘겠지](java/4344.java)|`string.format()` 사용 반올림
+
+### 2019.08.17
+|문제번호|제목||
+|---|---|---|
+|[10872](https://www.acmicpc.net/problem/10872)|[팩토리얼](java/10872.java)|`0! == 1`
