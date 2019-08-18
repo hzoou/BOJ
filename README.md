@@ -71,3 +71,4 @@
 |[2675](https://www.acmicpc.net/problem/2675)|[문자열 반복](java/2675.java)|`3중 포문`이용 -> 리팩토링 할 것
 |[1157](https://www.acmicpc.net/problem/1157)|[단어 공부](java/1157.java)
 |[1152](https://www.acmicpc.net/problem/1152)|[단어의 개수](java/1152.java)|`0`에 대한 `예외처리`, `sc.nextLine()` == `bf.readLine()`
+|[2908](https://www.acmicpc.net/problem/2908)|[상수](java/2908.java)
