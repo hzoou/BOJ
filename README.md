@@ -69,3 +69,4 @@
 |[11720](https://www.acmicpc.net/problem/11720)|[숫자의 합](java/11720.java)
 |[10809](https://www.acmicpc.net/problem/10809)|[알파벳 찾기](java/10809.java)
 |[2675](https://www.acmicpc.net/problem/2675)|[문자열 반복](java/2675.java)|`3중 포문`이용 -> 리팩토링 할 것
+|[1157](https://www.acmicpc.net/problem/1157)|[단어 공부](java/1157.java)
