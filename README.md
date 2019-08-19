@@ -73,3 +73,8 @@
 |[1152](https://www.acmicpc.net/problem/1152)|[단어의 개수](java/1152.java)|`0`에 대한 `예외처리`, `sc.nextLine()` == `bf.readLine()`
 |[2908](https://www.acmicpc.net/problem/2908)|[상수](java/2908.java)
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼](java/5622.java)
+
+### 2019.08.19
+|문제번호|제목|
+|---|---|
+|[1978](https://www.acmicpc.net/problem/1978)|[소수 찾기](java/1978.java)
