@@ -78,3 +78,4 @@
 |문제번호|제목|
 |---|---|
 |[1978](https://www.acmicpc.net/problem/1978)|[소수 찾기](java/1978.java)
+|[2581](https://www.acmicpc.net/problem/2581)|[소수](java/2581.java)
