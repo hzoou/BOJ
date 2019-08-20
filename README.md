@@ -87,3 +87,4 @@
 |[1929](https://www.acmicpc.net/problem/1929)|[소수 구하기](java/1929.java)|`에라스토테네스의 체`
 |[2941](https://www.acmicpc.net/problem/2941)|[크로아티아 알파벳](java/2941.java)|`replace(" ")` 대신 `replace("*")` 사용
 |[4673](https://www.acmicpc.net/problem/4673)|[셀프 넘버](java/4673.java)
+|[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어 체커](java/1316.java)
