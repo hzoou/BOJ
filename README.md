@@ -88,3 +88,4 @@
 |[2941](https://www.acmicpc.net/problem/2941)|[크로아티아 알파벳](java/2941.java)|`replace(" ")` 대신 `replace("*")` 사용
 |[4673](https://www.acmicpc.net/problem/4673)|[셀프 넘버](java/4673.java)
 |[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어 체커](java/1316.java)
+|[1065](https://www.acmicpc.net/problem/1065)|[한수](java/1065.java)|나중에 다시 풀어볼 것
