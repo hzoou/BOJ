@@ -79,3 +79,8 @@
 |---|---|
 |[1978](https://www.acmicpc.net/problem/1978)|[소수 찾기](java/1978.java)
 |[2581](https://www.acmicpc.net/problem/2581)|[소수](java/2581.java)
+
+### 2019.08.20
+|문제번호|제목||
+|---|---|---|
+|[2750](https://www.acmicpc.net/problem/2750)|[수 정렬하기](java/2750.java)|`Arrays.sort()` 말고 어떻게 풀 것인가?
