@@ -84,3 +84,4 @@
 |문제번호|제목||
 |---|---|---|
 |[2750](https://www.acmicpc.net/problem/2750)|[수 정렬하기](java/2750.java)|`Arrays.sort()` 말고 어떻게 풀 것인가?
+|[1929](https://www.acmicpc.net/problem/1929)|[소수 구하기](java/1929.java)|`에라스토테네스의 체`
