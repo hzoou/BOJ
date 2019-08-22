@@ -90,7 +90,12 @@
 |56|[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어 체커](java/1316.java)
 |57|[1065](https://www.acmicpc.net/problem/1065)|[한수](java/1065.java)|나중에 다시 풀어볼 것
 
-### 2019.08.20
+### 2019.08.21
 ||문제번호|제목|
 |---|---|---|
 |58|[14645](https://www.acmicpc.net/problem/14645)|[와이버스 부릉부릉](java/14645.java)
+
+### 2019.08.22
+||문제번호|제목|
+|---|---|---|
+|59|[2609](https://www.acmicpc.net/problem/2609)|[최대공약수와 최소공배수](java/2609.java)
