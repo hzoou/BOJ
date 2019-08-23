@@ -75,7 +75,7 @@
 |49|[5622](https://www.acmicpc.net/problem/5622)|[다이얼](java/5622.java)
 
 ### 2019.08.19
-||문제번호|제목|
+||문제번호|제목| 
 |---|---|---|
 |50|[1978](https://www.acmicpc.net/problem/1978)|[소수 찾기](java/1978.java)
 |51|[2581](https://www.acmicpc.net/problem/2581)|[소수](java/2581.java)
